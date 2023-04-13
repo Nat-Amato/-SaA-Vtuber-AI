@@ -35,6 +35,8 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 
 2. Durante la diretta, l'utente trova il bot operativo e visibile in live, grazie all'implementazione di un'interfaccia umanoide.
 
+![image](https://user-images.githubusercontent.com/48321178/231804240-f076de91-4281-46cc-8975-44ac05e07447.png)
+
 
 4. L'utente digita una frase o una richiesta specifica nella chat di YouTube.
 
