@@ -24,3 +24,11 @@ Per migliorare ulteriormente l'esperienza dell'utente, il nostro bot è in grado
 ## Conclusione
 
 Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzione innovativa e avanzata per fornire assistenza in chat in streaming su piattaforme come YouTube. Tuttavia, è importante notare che il bot richiede requisiti hardware avanzati per funzionare correttamente e abbiamo utilizzato la piattaforma OBS per lo streaming del nostro bot. Questa soluzione offre un'alternativa efficace alle soluzioni tradizionali basate su operatori umani e potrebbe essere estesa ad altre piattaforme di streaming e a vari contesti di assistenza online.
+
+
+# Caso di studio
+
+1. L'utente si collega alla diretta di YouTube tramite un determinato link, utilizzando il suo computer e l'accesso a internet.
+![image](https://user-images.githubusercontent.com/48321178/231802524-8d4278ff-eae6-4ad6-a936-b11b7aecb8c0.png)
+
+
