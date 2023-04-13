@@ -50,5 +50,7 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 
 5. Il bot fornisce la risposta all'utente, mostrandola a schermo e a voce mentre manifesta emozioni sul suo volto in base al contenuto del messaggio dell'utente, grazie all'utilizzo di un software di rilevamento delle emozioni e all'utilizzo di un'interfaccia umanoide.
 
+![image](https://user-images.githubusercontent.com/48321178/231809319-24648154-9584-41c8-adb2-756751f776d3.png)
+
 
 6. L'utente riceve la risposta del bot, sia in formato testuale che vocale, e può continuare a interagire con il bot durante la diretta su YouTube.
