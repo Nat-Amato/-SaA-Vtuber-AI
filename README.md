@@ -38,20 +38,17 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 ![image](https://user-images.githubusercontent.com/48321178/231804240-f076de91-4281-46cc-8975-44ac05e07447.png)
 
 
-4. L'utente digita una frase o una richiesta specifica nella chat di YouTube.
+3. L'utente digita una frase o una richiesta specifica nella chat di YouTube.
 
 ![image](https://user-images.githubusercontent.com/48321178/231804751-23bf53de-557d-422d-978a-e72969f573b9.png)
 
 
-6. Il bot riceve la richiesta dell'utente e la elabora utilizzando tecniche avanzate di intelligenza artificiale implementate nel sistema.
+4. Il bot riceve la richiesta dell'utente e la elabora utilizzando tecniche avanzate di intelligenza artificiale implementate nel sistema.
 
 ![image](https://user-images.githubusercontent.com/48321178/231806580-5991190a-8aca-4e08-8411-5413d2ec085a.png)
 
 
-8. Il bot fornisce la risposta all'utente, mostrandola a schermo e dicendola a voce contemporaneamente, grazie all'utilizzo di un'interfaccia umanoide.
+5. Il bot fornisce la risposta all'utente, mostrandola a schermo e a voce mentre manifesta emozioni sul suo volto in base al contenuto del messaggio dell'utente, grazie all'utilizzo di un software di rilevamento delle emozioni e all'utilizzo di un'interfaccia umanoide.
 
 
-10. Il bot manifesta emozioni sul suo volto in base al contenuto del messaggio dell'utente, grazie all'utilizzo di un software di rilevamento delle emozioni.
-
-
-12. L'utente riceve la risposta del bot, sia in formato testuale che vocale, e può continuare a interagire con il bot durante la diretta su YouTube.
+6. L'utente riceve la risposta del bot, sia in formato testuale che vocale, e può continuare a interagire con il bot durante la diretta su YouTube.
