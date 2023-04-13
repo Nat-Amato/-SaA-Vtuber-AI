@@ -13,14 +13,13 @@ Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è 
 ## Tecnologia e implementazione
 
 Il nostro agente informatico utilizza un linguaggio di programmazione chiamato LLaMA (Linguaggio di programmazione di Modelli Avanzati) per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale. LLaMA si basa su tecniche avanzate di intelligenza artificiale, permettendo al nostro bot di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
-
 Per implementare il nostro agente informatico, sono necessari requisiti hardware avanzati, tra cui almeno 16 GB di RAM, una CPU Intel Core i5 di 12a generazione o superiore, una scheda video RTX 3060ti o superiore. Inoltre, per la piattaforma di streaming, abbiamo utilizzato OBS (Open Broadcast Software) per trasmettere il nostro bot.
 
 ## Risultati e valutazione
 
-Il nostro agente informatico è stato testato e ha dimostrato di essere in grado di gestire un gran numero di domande provenienti dalla chat e di fornire risposte appropriate e pertinenti in tempo reale. Grazie all'uso di LLaMA e di tecniche avanzate di intelligenza artificiale, il nostro bot è in grado di adattarsi alle esigenze degli utenti e di fornire un'esperienza personalizzata e di alta qualità.
-
-Per creare un'esperienza utente ancora più coinvolgente, abbiamo utilizzato un'interfaccia umanoide per il nostro bot di streaming, che è in grado di mostrare emozioni cambiando espressione in base al contenuto delle domande degli utenti. Inoltre, il nostro bot è in grado di rispondere sia con il testo sullo schermo che con la voce, per fornire un'esperienza di servizio ancora più personalizzata.
+Il nostro agente informatico è stato testato e dimostrato di essere in grado di gestire un gran numero di domande provenienti dalla chat e fornire risposte appropriate e pertinenti in tempo reale. Attualmente, il nostro bot è in grado di fornire risposte ad un solo utente alla volta, garantendo un'esperienza personalizzata e di alta qualità. 
+Grazie all'utilizzo di LLaMA, il nostro bot è in grado di adattarsi alle esigenze degli utenti e fornire risposte pertinenti e tempestive. Inoltre, abbiamo implementato un'interfaccia umanoide per il nostro bot di streaming, che può mostrare emozioni cambiando espressione in base al contenuto delle domande degli utenti. 
+Per migliorare ulteriormente l'esperienza dell'utente, il nostro bot è in grado di fornire risposte sia in formato testuale che vocale, per consentire agli utenti di scegliere il formato di risposta che preferiscono. 
 
 ## Conclusione
 
