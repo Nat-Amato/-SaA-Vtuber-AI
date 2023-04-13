@@ -28,8 +28,24 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 
 # Caso di studio
 
-##1. L'utente si collega alla diretta di YouTube tramite un determinato link, utilizzando il suo computer e l'accesso a internet.
+#1. L'utente si collega alla diretta di YouTube tramite un determinato link, utilizzando il suo computer e l'accesso a internet.
 
 ![image](https://user-images.githubusercontent.com/48321178/231802524-8d4278ff-eae6-4ad6-a936-b11b7aecb8c0.png)
 
 
+2. Durante la diretta, l'utente trova il bot operativo e visibile in live, grazie all'implementazione di un'interfaccia umanoide.
+
+
+4. L'utente digita una frase o una richiesta specifica nella chat di YouTube.
+
+
+6. Il bot riceve la richiesta dell'utente e la elabora utilizzando tecniche avanzate di intelligenza artificiale implementate nel sistema.
+
+
+8. Il bot fornisce la risposta all'utente, mostrandola a schermo e dicendola a voce contemporaneamente, grazie all'utilizzo di un'interfaccia umanoide.
+
+
+10. Il bot manifesta emozioni sul suo volto in base al contenuto del messaggio dell'utente, grazie all'utilizzo di un software di rilevamento delle emozioni.
+
+
+12. L'utente riceve la risposta del bot, sia in formato testuale che vocale, e può continuare a interagire con il bot durante la diretta su YouTube.
