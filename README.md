@@ -45,6 +45,8 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 
 6. Il bot riceve la richiesta dell'utente e la elabora utilizzando tecniche avanzate di intelligenza artificiale implementate nel sistema.
 
+![image](https://user-images.githubusercontent.com/48321178/231806580-5991190a-8aca-4e08-8411-5413d2ec085a.png)
+
 
 8. Il bot fornisce la risposta all'utente, mostrandola a schermo e dicendola a voce contemporaneamente, grazie all'utilizzo di un'interfaccia umanoide.
 
