@@ -53,4 +53,4 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 ![image](https://user-images.githubusercontent.com/48321178/231809723-630ef796-df94-4f21-b983-4ce5598434ca.png)
 
 
-6. L'utente riceve la risposta del bot, sia in formato testuale che vocale, e può continuare a interagire con il bot durante la diretta su YouTube.
+Ricevuta la risposta del bot, sia in formato testuale che vocale, l'uente può continuare a interagire con il bot durante la diretta su YouTube.
