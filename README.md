@@ -28,7 +28,7 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 
 # Caso di studio
 
-#1. L'utente si collega alla diretta di YouTube tramite un determinato link, utilizzando il suo computer e l'accesso a internet.
+1. L'utente si collega alla diretta di YouTube tramite un determinato link, utilizzando il suo computer e l'accesso a internet.
 
 ![image](https://user-images.githubusercontent.com/48321178/231802524-8d4278ff-eae6-4ad6-a936-b11b7aecb8c0.png)
 
