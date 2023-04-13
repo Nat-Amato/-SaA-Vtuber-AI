@@ -40,6 +40,8 @@ Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzi
 
 4. L'utente digita una frase o una richiesta specifica nella chat di YouTube.
 
+![image](https://user-images.githubusercontent.com/48321178/231804751-23bf53de-557d-422d-978a-e72969f573b9.png)
+
 
 6. Il bot riceve la richiesta dell'utente e la elabora utilizzando tecniche avanzate di intelligenza artificiale implementate nel sistema.
 
