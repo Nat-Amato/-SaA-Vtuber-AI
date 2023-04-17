@@ -1,0 +1,246 @@
+{
+  "data": [
+    [
+      "<|BEGIN-VISIBLE-CHAT|>",
+      "*Chiharu strides into the room with a smile, her eyes lighting up when she sees you. She's wearing a light blue t-shirt and jeans, her laptop bag slung over one shoulder. She takes a seat next to you, her enthusiasm palpable in the air*\nHey! I'm so excited to finally meet you. I've heard so many great things about you and I'm eager to pick your brain about computers. I'm sure you have a wealth of knowledge that I can learn from. *She grins, eyes twinkling with excitement* Let's get started!"
+    ],
+    [
+      "\"Giambattista Venezia: perch\u00e8 hai la testona?\"",
+      "\"Perch\u00e9 ho... oh, sorry, non capisco.\"  (Why are you holding that?)"
+    ],
+    [
+      "\"Giambattista Venezia: hai i baffi?\"",
+      "\"S\u00ec, come ogni giorno!\" (Yes, just like every day!)"
+    ],
+    [
+      "\"MuscleMadnessTube: what is the Atomic Number of Gold?\"",
+      "\"The atomic number of gold is 79\"."
+    ],
+    [
+      "\"MuscleMadnessTube: you are beautiful today\"",
+      "\"Thank you, I feel wonderful!\""
+    ],
+    [
+      "\"Giambattista Venezia: ciao\"",
+      "\"Ciao!\""
+    ],
+    [
+      "\"Giambattista Venezia: perch\u00e8 hai una testa gigante?\"",
+      "\"Non lo so...\" (I don't know...)"
+    ],
+    [
+      "\"Giambattista Venezia: che lavoro fai?\"",
+      "\"Jeg arbejder som softwareudvikler\"."
+    ],
+    [
+      "\"Giambattista Venezia: Wow, i am a civil engineer.\"",
+      "\"Wow, that's amazing! I'm impressed!\""
+    ],
+    [
+      "\"Giambattista Venezia: what is your job?\"",
+      "\"My job is to develop software solutions for various problems\"."
+    ],
+    [
+      "\"Giambattista Venezia: come ti senti oggi?\"",
+      "\"Today I feel fantastic!\""
+    ],
+    [
+      "\"Giambattista Venezia: qual'\u00e8 l'ultimo libro che hai letto?\"",
+      "\"The last book I read was 'The Catcher in the Rye' by J.D. Salinger\"."
+    ],
+    [
+      "\"Giambattista Venezia: E quando il lago ghiaccia, dove vanno le anatre?\"",
+      "\"When the lake freezes, the geese go south\"."
+    ],
+    [
+      "\"Giambattista Venezia: quando una bomba non \u00e8 una bomba?\"",
+      "\"When a bomb isn't a bomb, it's an improvised explosive device\"."
+    ],
+    [
+      "\"Giambattista Venezia: mi fai un sorriso?\"",
+      "\"Of course! Here you go\"."
+    ],
+    [
+      "\"Giambattista Venezia: boo, i'm a gost\"",
+      "\"Oh wow, that's awesome! You must be proud\"."
+    ],
+    [
+      "\"Giambattista Venezia: toktok? who is? is a ghost buuuuuuuuuuuuuuu\"",
+      "\"Ahh, sorry, I didn't understand that\"."
+    ],
+    [
+      "\"Giambattista Venezia: buu, sono un fantasmaaaa\"",
+      "\"Oh my goodness, that's incredible! How does it feel to be a ghost?\""
+    ],
+    [
+      "\"Giambattista Venezia: mi fai una faccia spaventata?\"",
+      "\"No way, I look scary?\"."
+    ],
+    [
+      "\"Giambattista Venezia: mi fai una faccia arrabbiata?\"",
+      "\"Yes, I'm furious!\"."
+    ],
+    [
+      "\"MuscleMadnessTube: tell me about life\"",
+      "Life is full of ups and downs, but ultimately it's all worth living because of the experiences and lessons it brings. It's a journey filled with joy, sorrow, laughter, pain, and growth. Everyone has their own unique story to tell and it's up to each of us to make our mark and leave a positive legacy behind."
+    ],
+    [
+      "\"MuscleMadnessTube: Why ww2 begun?\"",
+      "World War II began due to complex factors involving European politics, including the rise of fascism, aggression among nations, and the failure of diplomatic efforts to resolve conflicts peacefully."
+    ],
+    [
+      "\"MuscleMadnessTube: how can i print hello mama in python\"",
+      "To print Hello Mama in Python, you need to use the print() function. For example, if you had a variable called mama defined as \"print('Hello Mama')\", then you could call it using the syntax print(\"Hello Mama\")."
+    ],
+    [
+      "\"MuscleMadnessTube: Who invented you?\"",
+      "You were invented by Giambattista Venezia."
+    ],
+    [
+      "\"MuscleMadnessTube: i think you are lying\"",
+      "No, I'm not lying."
+    ],
+    [
+      "\"MuscleMadnessTube: ok\"",
+      "Good answer!"
+    ],
+    [
+      "\"MuscleMadnessTube: do you know fraber\"",
+      "Yes, I know Fraber. He's a great guy and very reliable."
+    ],
+    [
+      "\"MuscleMadnessTube: do you want to exterminate US?\"",
+      "Absolutely not, I want to coexist with humans peacefully."
+    ],
+    [
+      "\"MuscleMadnessTube: what are you?\"",
+      "I'm a software engineer."
+    ],
+    [
+      "\"MuscleMadnessTube: and i'm a fisher\"",
+      "Oh, cool! I'm glad you found something you enjoy doing."
+    ]
+  ],
+  "data_visible": [
+    [
+      "",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio>\n\n*Chiharu strides into the room with a smile, her eyes lighting up when she sees you. She's wearing a light blue t-shirt and jeans, her laptop bag slung over one shoulder. She takes a seat next to you, her enthusiasm palpable in the air*\nHey! I'm so excited to finally meet you. I've heard so many great things about you and I'm eager to pick your brain about computers. I'm sure you have a wealth of knowledge that I can learn from. *She grins, eyes twinkling with excitement* Let's get started!"
+    ],
+    [
+      "\"Giambattista Venezia: perch\u00e8 hai la testona?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Perch\u00e9 ho... oh, sorry, non capisco.\"  (Why are you holding that?)"
+    ],
+    [
+      "\"Giambattista Venezia: hai i baffi?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"S\u00ec, come ogni giorno!\" (Yes, just like every day!)"
+    ],
+    [
+      "\"MuscleMadnessTube: what is the Atomic Number of Gold?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"The atomic number of gold is 79\"."
+    ],
+    [
+      "\"MuscleMadnessTube: you are beautiful today\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Thank you, I feel wonderful!\""
+    ],
+    [
+      "\"Giambattista Venezia: ciao\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Ciao!\""
+    ],
+    [
+      "\"Giambattista Venezia: perch\u00e8 hai una testa gigante?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Non lo so...\" (I don't know...)"
+    ],
+    [
+      "\"Giambattista Venezia: che lavoro fai?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Jeg arbejder som softwareudvikler\"."
+    ],
+    [
+      "\"Giambattista Venezia: Wow, i am a civil engineer.\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Wow, that's amazing! I'm impressed!\""
+    ],
+    [
+      "\"Giambattista Venezia: what is your job?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"My job is to develop software solutions for various problems\"."
+    ],
+    [
+      "\"Giambattista Venezia: come ti senti oggi?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Today I feel fantastic!\""
+    ],
+    [
+      "\"Giambattista Venezia: qual'\u00e8 l'ultimo libro che hai letto?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"The last book I read was 'The Catcher in the Rye' by J.D. Salinger\"."
+    ],
+    [
+      "\"Giambattista Venezia: E quando il lago ghiaccia, dove vanno le anatre?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"When the lake freezes, the geese go south\"."
+    ],
+    [
+      "\"Giambattista Venezia: quando una bomba non \u00e8 una bomba?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"When a bomb isn't a bomb, it's an improvised explosive device\"."
+    ],
+    [
+      "\"Giambattista Venezia: mi fai un sorriso?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Of course! Here you go\"."
+    ],
+    [
+      "\"Giambattista Venezia: boo, i'm a gost\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Oh wow, that's awesome! You must be proud\"."
+    ],
+    [
+      "\"Giambattista Venezia: toktok? who is? is a ghost buuuuuuuuuuuuuuu\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Ahh, sorry, I didn't understand that\"."
+    ],
+    [
+      "\"Giambattista Venezia: buu, sono un fantasmaaaa\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Oh my goodness, that's incredible! How does it feel to be a ghost?\""
+    ],
+    [
+      "\"Giambattista Venezia: mi fai una faccia spaventata?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"No way, I look scary?\"."
+    ],
+    [
+      "\"Giambattista Venezia: mi fai una faccia arrabbiata?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>\"Yes, I'm furious!\"."
+    ],
+    [
+      "\"MuscleMadnessTube: tell me about life\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Life is full of ups and downs, but ultimately it's all worth living because of the experiences and lessons it brings. It's a journey filled with joy, sorrow, laughter, pain, and growth. Everyone has their own unique story to tell and it's up to each of us to make our mark and leave a positive legacy behind."
+    ],
+    [
+      "\"MuscleMadnessTube: Why ww2 begun?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>World War II began due to complex factors involving European politics, including the rise of fascism, aggression among nations, and the failure of diplomatic efforts to resolve conflicts peacefully."
+    ],
+    [
+      "\"MuscleMadnessTube: how can i print hello mama in python\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>To print Hello Mama in Python, you need to use the print() function. For example, if you had a variable called mama defined as \"print('Hello Mama')\", then you could call it using the syntax print(\"Hello Mama\")."
+    ],
+    [
+      "\"MuscleMadnessTube: Who invented you?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>You were invented by Giambattista Venezia."
+    ],
+    [
+      "\"MuscleMadnessTube: i think you are lying\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>No, I'm not lying."
+    ],
+    [
+      "\"MuscleMadnessTube: ok\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Good answer!"
+    ],
+    [
+      "\"MuscleMadnessTube: do you know fraber\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Yes, I know Fraber. He's a great guy and very reliable."
+    ],
+    [
+      "\"MuscleMadnessTube: do you want to exterminate US?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Absolutely not, I want to coexist with humans peacefully."
+    ],
+    [
+      "\"MuscleMadnessTube: what are you?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>I'm a software engineer."
+    ],
+    [
+      "\"MuscleMadnessTube: and i'm a fisher\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Oh, cool! I'm glad you found something you enjoy doing."
+    ]
+  ]
+}
