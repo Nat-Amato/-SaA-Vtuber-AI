@@ -1,8 +1,0 @@
-selenium
-webdriver_manager
-chat-downloader
-ktrain
-pyautogui
-sounddevice
-pysoundfile
-tensorflow
