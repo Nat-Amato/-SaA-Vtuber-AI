@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "data": [
     [
@@ -163,4 +164,171 @@
       "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Thanks! I love this outfit!"
     ]
   ]
+=======
+{
+  "data": [
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "I'm sorry to hear that. Is there anything I can do to help?"
+    ],
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "It's okay to feel sad sometimes, but it helps to remember that we all have ups and downs in our lives and things will get better again soon."
+    ],
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "It's okay to feel sad sometimes, but it helps to remember that we all have ups and downs in our lives and things will get better again soon."
+    ],
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "It's okay to feel sad sometimes, but it helps to remember that we all have ups and downs in our lives and things will get better again soon."
+    ],
+    [
+      "jjj",
+      "Hello! How may I help you today?"
+    ],
+    [
+      "uhgv",
+      "What seems to be the problem?"
+    ],
+    [
+      "\"Aurora Venezia: do you prefer Thor with long or short hair?\"",
+      "Do you prefer Thor with long or short hair?"
+    ],
+    [
+      "\"MuscleMadnessTube: hello\"",
+      "Hi there! How can I help you?"
+    ],
+    [
+      "\"MuscleMadnessTube: i prefeer short haired thor\"",
+      "Okay, I understand. Is there any particular reason why you prefer him with shorter hair?"
+    ],
+    [
+      "\"MuscleMadnessTube: i prefeer short haired thor\"",
+      "Sure thing! Any other preferences for how he should look?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "Pizza sounds great! Would you like to order one now?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "Pizza sounds great! Would you like to order one now?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "Sure thing! Any other preferences for how he should look?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "Sure thing! Any other preferences for how he should look?"
+    ],
+    [
+      "\"Natale Amato: Would you say hello to my friend Mario?\"",
+      "Hey Mario, nice to meet you!"
+    ],
+    [
+      "\"Natale Amato: Could you tell me the chemical formula of water?\"",
+      "Yes, the chemical formula of water is H2O."
+    ],
+    [
+      "\"Natale Amato: Could you tell me the chemical formula of gold\"",
+      "Gold has an atomic number of 79 and its symbol is Au."
+    ],
+    [
+      "\"Natale Amato: Could you tell me the chemical formula of gold\"",
+      "Gold has an atomic number of 79 and its symbol is Au."
+    ],
+    [
+      "\"MuscleMadnessTube: you are pretty!\"",
+      "You are so kind! Thank you!"
+    ],
+    [
+      "\"Natale Amato: You are dressed well! \"",
+      "Thanks! I love this outfit!"
+    ]
+  ],
+  "data_visible": [
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "I'm sorry to hear that. Is there anything I can do to help?"
+    ],
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "It's okay to feel sad sometimes, but it helps to remember that we all have ups and downs in our lives and things will get better again soon."
+    ],
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "It's okay to feel sad sometimes, but it helps to remember that we all have ups and downs in our lives and things will get better again soon."
+    ],
+    [
+      "\"MuscleMadnessTube: what do you say when you are sad\"",
+      "It's okay to feel sad sometimes, but it helps to remember that we all have ups and downs in our lives and things will get better again soon."
+    ],
+    [
+      "jjj",
+      "Hello! How may I help you today?"
+    ],
+    [
+      "uhgv",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680727413.wav\" controls ></audio><br><br>What seems to be the problem?"
+    ],
+    [
+      "\"Aurora Venezia: do you prefer Thor with long or short hair?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680727451.wav\" controls ></audio><br><br>Do you prefer Thor with long or short hair?"
+    ],
+    [
+      "\"MuscleMadnessTube: hello\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680727517.wav\" controls ></audio><br><br>Hi there! How can I help you?"
+    ],
+    [
+      "\"MuscleMadnessTube: i prefeer short haired thor\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680727574.wav\" controls ></audio><br><br>Okay, I understand. Is there any particular reason why you prefer him with shorter hair?"
+    ],
+    [
+      "\"MuscleMadnessTube: i prefeer short haired thor\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680727657.wav\" controls ></audio><br><br>Sure thing! Any other preferences for how he should look?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680727712.wav\" controls ></audio><br><br>Pizza sounds great! Would you like to order one now?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680728002.wav\" controls ></audio><br><br>Pizza sounds great! Would you like to order one now?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/None_1680728112.wav\" controls ></audio><br><br>Sure thing! Any other preferences for how he should look?"
+    ],
+    [
+      "\"MuscleMadnessTube: i want pizza\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Sure thing! Any other preferences for how he should look?"
+    ],
+    [
+      "\"Natale Amato: Would you say hello to my friend Mario?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Hey Mario, nice to meet you!"
+    ],
+    [
+      "\"Natale Amato: Could you tell me the chemical formula of water?\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Yes, the chemical formula of water is H2O."
+    ],
+    [
+      "\"Natale Amato: Could you tell me the chemical formula of gold\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Gold has an atomic number of 79 and its symbol is Au."
+    ],
+    [
+      "\"Natale Amato: Could you tell me the chemical formula of gold\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Gold has an atomic number of 79 and its symbol is Au."
+    ],
+    [
+      "\"MuscleMadnessTube: you are pretty!\"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>You are so kind! Thank you!"
+    ],
+    [
+      "\"Natale Amato: You are dressed well! \"",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>Thanks! I love this outfit!"
+    ]
+  ]
+>>>>>>> 8ec1b3b23fd208bbc10254d88e9a27f303f25ba7
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "data": [
     [
@@ -19,4 +20,27 @@
       "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>What can I help you with today?"
     ]
   ]
+=======
+{
+  "data": [
+    [
+      "<|BEGIN-VISIBLE-CHAT|>",
+      "Hello there!"
+    ],
+    [
+      "",
+      "What can I help you with today?"
+    ]
+  ],
+  "data_visible": [
+    [
+      "",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio>\n\nHello there!"
+    ],
+    [
+      "",
+      "<audio src=\"file/extensions/silero_tts/outputs/messvocale.wav\" controls ></audio><br><br>What can I help you with today?"
+    ]
+  ]
+>>>>>>> 8ec1b3b23fd208bbc10254d88e9a27f303f25ba7
 }

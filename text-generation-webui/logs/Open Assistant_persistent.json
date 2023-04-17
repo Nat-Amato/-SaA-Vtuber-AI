@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "data": [
     [
@@ -19,4 +20,27 @@
       "<|interviewer|>"
     ]
   ]
+=======
+{
+  "data": [
+    [
+      "hi",
+      "<|interviewer|>"
+    ],
+    [
+      "what?",
+      "<|interviewer|>"
+    ]
+  ],
+  "data_visible": [
+    [
+      "hi",
+      "<|interviewer|>"
+    ],
+    [
+      "what?",
+      "<|interviewer|>"
+    ]
+  ]
+>>>>>>> 8ec1b3b23fd208bbc10254d88e9a27f303f25ba7
 }
