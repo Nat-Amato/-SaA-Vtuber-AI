@@ -19,7 +19,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from chat_downloader import ChatDownloader #da installare -- pip install chat-downloader
 
 from os import system
-system("title " + "Server")
+system("title " + "Server_Principale")
  
 ##Avvio modello Emozioni
 import ktrain #da installare -- pip install ktrain
@@ -86,18 +86,22 @@ def selenium_send(userinput):
     play.voiceandface(prediction, filename, device) #filename = percorso+ nome file audio
 
 userinput_old = ""
+
 with open('readme.txt', 'w') as f:
     f.write("")
 device = getaudiodevice()
 while(True):
     time.sleep(1)
-    f = open('Output.json')
-    data = json.load(f)
-    last_text = data[-1]
-    author = last_text['author']['name']
-    message = last_text['message']    
-    userinput = '"' + author + ': ' + message +'"'
-    f.close()
+    try : 
+        f = open('Output.json')
+        data = json.load(f)
+        last_text = data[-1]
+        author = last_text['author']['name']
+        message = last_text['message']    
+        userinput = '"' + author + ': ' + message +'"'
+        f.close()
+    except json.decoder.JSONDecodeError:
+        userinput = "Hey Kawaii, please introduce yourself!"
     if(userinput != userinput_old):
         print(userinput)
         selenium_send(userinput)

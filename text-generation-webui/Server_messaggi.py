@@ -1,6 +1,9 @@
 from chat_downloader import ChatDownloader
 import subprocess
 
+from os import system
+system("title " + "Server_Messaggi")
+
 url = input("Inserisci link live: ")
 chat = ChatDownloader().get_chat(url, output="./Output.json")       # create a generator
 subprocess.Popen(["start", "cmd", "/k", "python", "SELENIUMGPT_Emo.py"], shell=True)

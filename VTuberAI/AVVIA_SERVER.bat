@@ -13,7 +13,7 @@ if not exist "%MAMBA_ROOT_PREFIX%\condabin\micromamba.bat" (
 call "%MAMBA_ROOT_PREFIX%\condabin\micromamba.bat" activate "%INSTALL_ENV_DIR%" || ( echo MicroMamba hook not found. && goto end )
 cd text-generation-webui
 
-call python server.py --model alpaca-native-4bit --groupsize 128 --wbits 4 --rwkv-cuda-on --auto-launch --load-in-8bit --chat --no-stream --extensions silero_tts
+call python server.py --model ozcur_alpaca-native-4bit --groupsize 128 --wbits 4 --rwkv-cuda-on --auto-devices --chat --no-stream --extensions silero_tts
 
 :end
 pause

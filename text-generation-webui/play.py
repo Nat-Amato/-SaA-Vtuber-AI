@@ -1,25 +1,16 @@
 import os
 import time
 import wave
-import pyautogui #da installare -- pip install pyautoguy
+import pyautogui#da installare -- pip install pyautoguy
+pyautogui.FAILSAFE = False
 import sounddevice as sd  #pip install sounddevice
 import soundfile as sf  #pip install pysoundfile
 import logging
 #prediction = emotion
-'''
-def voiceandface(prediction):
-    set_face(prediction)
-    wave_read = wave.open('./extensions/silero_tts/outputs/messvocale.wav', 'rb')
-    wave_obj = sa.WaveObject.from_wave_read(wave_read)
-    play_obj = wave_obj.play()
-    play_obj.wait_done()
-    time.sleep(1)
-    set_default_face()
-'''
+
 
 def voiceandface(prediction, filename, device):
     set_face(prediction)
-    print("hey!")
     play_audio(filename = filename, device = device)
     time.sleep(1)
     set_default_face()
@@ -31,7 +22,7 @@ def set_face(prediction):
         pyautogui.keyDown('f4')
         pyautogui.keyUp('shift')
         pyautogui.keyUp('ctrl')
-        pyautogui.keyUp('f2')
+        pyautogui.keyUp('f4')
              
     elif(prediction == 'sadness') :
         pyautogui.keyDown("ctrl")

@@ -19,6 +19,10 @@ from modules.models import load_model, load_soft_prompt
 from modules.text_generation import (clear_torch_cache, generate_reply,
                                      stop_everything_event)
 
+from os import system
+system("title " + "Server_Modello_AI")
+ 
+
 # Loading custom settings
 settings_file = None
 if shared.args.settings is not None and Path(shared.args.settings).exists():
