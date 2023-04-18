@@ -1,10 +1,10 @@
-# VTuber AI
 
-# Un agente informatico basato su LLaMA per l'assistenza in chat in streaming su YouTube: soluzione innovativa e avanzata
+
+# VTuber AI - Un agente informatico basato su LLaMA per l'assistenza in chat in streaming su YouTube: soluzione innovativa e avanzata
 
 ## Abstract
 
-Lo streaming su piattaforme come YouTube sta diventando sempre più popolare, generando un crescente bisogno di assistenza efficace e rapida per gli utenti attraverso la chat. In questo articolo, presentiamo un agente informatico basato su LLaMA (Linguaggio di programmazione di Modelli Avanzati) progettato per fornire supporto in tempo reale nella chat di streaming su YouTube. Descriviamo la tecnologia e l'hardware necessario per implementare questa soluzione, nonché i risultati ottenuti dai test effettuati.
+In questo articolo presentiamo un agente informatico basato su LLaMA (Linguaggio di programmazione di Modelli Avanzati) progettato per fornire assistenza in tempo reale nella chat di streaming su YouTube. Descriviamo la tecnologia e l'hardware necessario per implementare questa soluzione, nonché i risultati ottenuti dai test effettuati. Oltre a fornire assistenza, l'agente informatico può essere impiegato a scopo ludico e ricreativo. Con l'aumento della popolarità dello streaming su piattaforme come YouTube, c'è una crescente necessità di fornire assistenza efficace e rapida agli utenti attraverso la chat. L'agente informatico è stato progettato per rispondere alle domande degli utenti in modo efficiente e preciso, offrendo un'esperienza di streaming più fluida e piacevole. Tuttavia, l'agente informatico può anche essere utilizzato per intrattenere gli utenti, ad esempio attraverso giochi basati sulla chat o interazioni divertenti.
 
 ## Introduzione
 
@@ -45,7 +45,7 @@ Ricevuta la risposta del bot, sia in formato testuale che vocale, l'utente può 
 ## Premessa
 "Le repository presenti su questo account Github sono utilizzate solo a scopo didattico e di apprendimento. Se il proprietario di una repository inclusa in questo account desidera che il suo materiale venga rimosso, lo faremo immediatamente su richiesta del proprietario. Non intendiamo utilizzare o distribuire il materiale in modo non autorizzato. Tutte le repository sono soggette alle licenze e alle condizioni d'uso dei rispettivi proprietari."
 
-# Classificazione delle emozioni nei messaggi brevi
+## Classificazione delle emozioni nei messaggi brevi
 Questa repository contiene un progetto di analisi del sentiment a più classi per classificare i testi in cinque categorie emotive: gioia, tristezza, rabbia, paura e neutralità. 
 In particolare, la repository include la preparazione del dataset, l'utilizzo di machine learning tradizionale con scikit-learn, l'utilizzo di reti neurali LSTM e il transfer learning utilizzando BERT (tensorflow keras). 
 In altre parole, il progetto utilizza diverse tecniche per addestrare un modello informatico a riconoscere e classificare i testi in base alle emozioni che esprimono.
