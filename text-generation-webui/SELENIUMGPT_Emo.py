@@ -88,8 +88,6 @@ def selenium_send(userinput):
 userinput_old = ""
 with open('readme.txt', 'w') as f:
     f.write("")
-with open('Output.json', 'w') as f:
-    f.write("")
 device = getaudiodevice()
 while(True):
     time.sleep(1)

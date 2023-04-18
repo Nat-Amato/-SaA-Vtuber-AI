@@ -80,7 +80,14 @@ if exist text-generation-webui\ (
   cd text-generation-webui
   git pull
 ) else (
-  git clone https://github.com/Nat-Amato/-SaA-Vtuber-AI/tree/main/text-generation-webui.git
+  git init
+  git remote add origin https://github.com/Nat-Amato/-SaA-Vtuber-AI 
+  git fetch
+  git sparse-checkout init --cone
+  git sparse-checkout set text-generation-webui
+  git checkout main
+  git fetch -p 
+  git remote remove origin
   call python -m pip install https://github.com/jllllll/bitsandbytes-windows-webui/raw/main/bitsandbytes-0.37.2-py3-none-any.whl
   cd text-generation-webui || goto end
 )

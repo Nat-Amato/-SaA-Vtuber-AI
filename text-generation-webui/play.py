@@ -1,6 +1,5 @@
 import os
 import time
-import simpleaudio as sa
 import wave
 import pyautogui #da installare -- pip install pyautoguy
 import sounddevice as sd  #pip install sounddevice
