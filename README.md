@@ -53,10 +53,15 @@ Ricevuta la risposta del bot, sia in formato testuale che vocale, l'utente può 
 ## Premessa
 "Le repository presenti su questo account Github sono utilizzate solo a scopo didattico e di apprendimento. Se il proprietario di una repository inclusa in questo account desidera che il suo materiale venga rimosso, lo faremo immediatamente su richiesta del proprietario. Non intendiamo utilizzare o distribuire il materiale in modo non autorizzato. Tutte le repository sono soggette alle licenze e alle condizioni d'uso dei rispettivi proprietari."
 
-## Classificazione delle emozioni nei messaggi brevi
+## [LLM](https://en.wikipedia.org/wiki/Logic_learning_machine "LLM") (Logic Learning Machine)
+Alpaca basato su LLaMA di META, in particlolare si tratta di una versione quantizzata a 4 bit di chavinlo/alpaca-native
+[Link alla repository](https://huggingface.co/ozcur/alpaca-native-4bit "Link alla repository")
+
+##NLP (Natural Language Processing)
 Questa repository contiene un progetto di analisi del sentiment a più classi per classificare i testi in cinque categorie emotive: gioia, tristezza, rabbia, paura e neutralità. 
 In particolare, la repository include la preparazione del dataset, l'utilizzo di machine learning tradizionale con scikit-learn, l'utilizzo di reti neurali LSTM e il transfer learning utilizzando BERT (tensorflow keras). 
 In altre parole, il progetto utilizza diverse tecniche per addestrare un modello informatico a riconoscere e classificare i testi in base alle emozioni che esprimono.
 [Link alla repository](https://github.com/lukasgarbas/nlp-text-emotion "Link alla repository")
+
 
 
