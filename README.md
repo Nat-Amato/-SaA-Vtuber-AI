@@ -12,7 +12,7 @@ Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è 
 
 ## Tecnologia e implementazione
 
-Il nostro agente informatico utilizza un linguaggio di programmazione chiamato LLM per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale. LLM si basa su tecniche avanzate di intelligenza artificiale, permettendo al nostro bot di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
+Il nostro agente informatico utilizza la Logic Learning Machine (LLM), ossia un metodo di apprendimento automatico basato sulla generazione di regole intelligibili per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale, ciò permette al nostro bot di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
 Per implementare il nostro agente informatico, sono necessari requisiti hardware avanzati, tra cui almeno 16 GB di RAM, una CPU Intel Core i5 di 12a generazione o superiore, una scheda video RTX 3060ti o superiore. Inoltre, per la piattaforma di streaming, abbiamo utilizzato OBS (Open Broadcast Software) per trasmettere il nostro bot.
 
 ## Risultati e valutazione
