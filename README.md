@@ -8,7 +8,7 @@ In questo progetto presentiamo un agente informatico basato su LLM progettato pe
 
 ## Introduzione
 
-Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è diventato sempre più importante fornire un'assistenza efficace e rapida agli utenti attraverso la chat. Tuttavia, gestire un gran numero di domande e richieste in tempo reale può rappresentare una sfida per gli operatori umani. Per questo motivo, abbiamo sviluppato un agente informatico basato su LLM per fornire supporto alla chat in streaming su YouTube.
+Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è diventato sempre più importante fornire un'assistenza efficace e un maggiore coinvolgimento agli utenti attraverso la chat. Tuttavia, gestire un gran numero di domande e richieste in tempo reale può rappresentare una sfida per gli operatori umani. Per questo motivo, abbiamo sviluppato un agente informatico basato su LLM per fornire supporto alla chat in streaming su YouTube.
 
 ## Tecnologia e implementazione
 
