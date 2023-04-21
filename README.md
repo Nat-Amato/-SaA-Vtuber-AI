@@ -12,8 +12,7 @@ Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è 
 
 ## Tecnologia e implementazione
 
-
-
+Il nostro assistente informatico utilizza un Logic Learning Machine (LLM) basato su Alpaca per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale. Inoltre, la gestione delle emozioni del nostro assistente è affidata ad un sistema di Elaborazione del Linguaggio Naturale (NLP) che utilizza BERT per mostrare le emozioni. Questo consente al nostro assistente di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
 
 ## Risultati e valutazione
 
