@@ -8,11 +8,19 @@ In questo progetto presentiamo un agente informatico basato su LLM progettato pe
 
 ## Introduzione
 
-Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è diventato sempre più importante fornire un'assistenza efficace e un maggiore coinvolgimento agli utenti attraverso la chat. Tuttavia, gestire un gran numero di domande e richieste in tempo reale può rappresentare una sfida per gli operatori umani. Per questo motivo, abbiamo sviluppato un agente informatico basato su LLM per fornire supporto alla chat in streaming su YouTube.
+Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è diventato sempre più importante fornire un'assistenza efficace e un maggiore coinvolgimento agli utenti attraverso la chat. Tuttavia, gestire un gran numero di domande e richieste in tempo reale può rappresentare una sfida per gli operatori umani. Per questo motivo, abbiamo sviluppato un agente informatico basato su LLM per fornire supporto alle chat in streaming.
 
 ## Tecnologia e implementazione
 
-Utilizza un Logic Learning Machine (LLM) basato su Alpaca per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale. Inoltre, la gestione delle emozioni del nostro assistente è affidata ad un sistema di Elaborazione del Linguaggio Naturale (NLP) che utilizza BERT per mostrare le emozioni. Questo consente al nostro assistente di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
+I requisiti minimi hardware per l'esecuzione del nostro agente sono: 
+- GPU RTX 3060ti
+- CPU Intel Core i5 di 12a gen.
+- RAM 16 GB
+- HDD 20 GB
+
+Lato software utilizza un Logic Learning Machine (LLM) basato su Alpaca per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale.
+La gestione delle emozioni è affidata ad un sistema di Elaborazione del Linguaggio Naturale (NLP) basato su BERT in grado di classificare i testi in cinque categorie emotive: gioia, tristezza, rabbia, paura e neutralità . 
+Queste tecniche di apprendimento ed elaborazione fanno si che il nostro assistente si adatti alle esigenze degli utenti e sia in grado di offrire un'esperienza di assistenza personalizzata e di alta qualità.
 
 ## Risultati e valutazione
 
@@ -22,7 +30,7 @@ Per migliorare ulteriormente l'esperienza dell'utente, il nostro bot è in grado
 
 ## Conclusione
 
-Concludendo, il nostro agente informatico basato su LLaMA rappresenta una soluzione innovativa e avanzata per fornire assistenza in chat in streaming su piattaforme come YouTube. Tuttavia, è importante notare che il bot richiede requisiti hardware avanzati per funzionare correttamente e abbiamo utilizzato la piattaforma OBS per lo streaming del nostro bot. Questa soluzione offre un'alternativa efficace alle soluzioni tradizionali basate su operatori umani e potrebbe essere estesa ad altre piattaforme di streaming e a vari contesti di assistenza online.
+Concludendo, il nostro agente informatico basato su LLM rappresenta una soluzione innovativa e avanzata per fornire assistenza in chat in streaming su piattaforme come YouTube. Tuttavia, è importante notare che il bot richiede requisiti hardware avanzati per funzionare correttamente e abbiamo utilizzato la piattaforma OBS per lo streaming del nostro bot. Questa soluzione offre un'alternativa efficace alle soluzioni tradizionali basate su operatori umani e potrebbe essere estesa ad altre piattaforme di streaming e a vari contesti di assistenza online.
 
 
 # Caso di studio
