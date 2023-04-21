@@ -62,6 +62,3 @@ Questa repository contiene un progetto di analisi del sentiment a più classi pe
 In particolare, la repository include la preparazione del dataset, l'utilizzo di machine learning tradizionale con scikit-learn, l'utilizzo di reti neurali LSTM e il transfer learning utilizzando BERT (tensorflow keras). 
 In altre parole, il progetto utilizza diverse tecniche per addestrare un modello informatico a riconoscere e classificare i testi in base alle emozioni che esprimono.
 [Link alla repository](https://github.com/lukasgarbas/nlp-text-emotion "Link alla repository")
-
-
-
