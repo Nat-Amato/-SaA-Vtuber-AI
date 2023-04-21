@@ -20,12 +20,13 @@ I requisiti minimi hardware per l'esecuzione del nostro agente sono:
 
 Lato software utilizza un Logic Learning Machine (LLM) basato su Alpaca per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale.
 La gestione delle emozioni è affidata ad un sistema di Elaborazione del Linguaggio Naturale (NLP) basato su BERT in grado di classificare i testi in cinque categorie emotive: gioia, tristezza, rabbia, paura e neutralità . 
-Queste tecniche di apprendimento ed elaborazione fanno si che il nostro assistente si adatti alle esigenze degli utenti e sia in grado di offrire un'esperienza di assistenza personalizzata e di alta qualità.
+Queste tecniche di apprendimento ed elaborazione fanno si che il nostro assistente si adatti alle esigenze degli utenti e sia in grado di offrire un'esperienza di assistenza o di semplice intrattenimento, personalizzata e di alta qualità.
 
 ## Risultati e valutazione
 
-Il nostro agente informatico è stato testato e dimostrato di essere in grado di gestire un gran numero di domande provenienti dalla chat e fornire risposte appropriate e pertinenti in tempo reale. Attualmente, il nostro bot è in grado di fornire risposte ad un solo utente alla volta, garantendo un'esperienza personalizzata e di alta qualità. 
-Grazie all'utilizzo di LLM, il nostro bot è in grado di adattarsi alle esigenze degli utenti e fornire risposte pertinenti e tempestive. Inoltre, abbiamo implementato un'interfaccia umanoide per il nostro bot di streaming, che può mostrare emozioni cambiando espressione in base al contenuto delle domande degli utenti. 
+Il nostro sistema è stato testato e ha dimostrato di essere in grado di gestire un gran numero di domande provenienti dalla chat e fornire risposte appropriate e pertinenti in tempo reale. 
+Grazie all'utilizzo di Alpaca basato su LLaMA di META, il nostro bot è in grado di fornire risposte pertinenti e tempestive. 
+Inoltre, abbiamo implementato un'interfaccia umanoide per il nostro bot di streaming, che può mostrare emozioni cambiando espressione in base al contenuto delle domande degli utenti. 
 Per migliorare ulteriormente l'esperienza dell'utente, il nostro bot è in grado di fornire risposte sia in formato testuale che vocale, per consentire agli utenti di scegliere il formato di risposta che preferiscono. 
 
 ## Conclusione
