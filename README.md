@@ -1,24 +1,24 @@
 
 
-# VTuber AI - Un agente informatico basato su LLaMA per l'assistenza in chat in streaming su YouTube: soluzione innovativa e avanzata
+# VTuber AI - Un agente informatico basato su LLM per l'assistenza in chat in streaming su YouTube: soluzione innovativa e avanzata
 
 ## Abstract
 
-In questo articolo presentiamo un agente informatico basato su LLaMA (Linguaggio di programmazione di Modelli Avanzati) progettato per fornire assistenza in tempo reale nella chat di streaming su YouTube. Descriviamo la tecnologia e l'hardware necessario per implementare questa soluzione, nonché i risultati ottenuti dai test effettuati. Oltre a fornire assistenza, l'agente informatico può essere impiegato a scopo ludico e ricreativo. Con l'aumento della popolarità dello streaming su piattaforme come YouTube, c'è una crescente necessità di fornire assistenza efficace e rapida agli utenti attraverso la chat. L'agente informatico è stato progettato per rispondere alle domande degli utenti in modo efficiente e preciso, offrendo un'esperienza di streaming più fluida e piacevole. Tuttavia, l'agente informatico può anche essere utilizzato per intrattenere gli utenti, ad esempio attraverso giochi basati sulla chat o interazioni divertenti.
+In questo articolo presentiamo un agente informatico basato su LLM progettato per fornire assistenza in tempo reale nella chat di streaming su YouTube. Descriviamo la tecnologia e l'hardware necessario per implementare questa soluzione, nonché i risultati ottenuti dai test effettuati. Oltre a fornire assistenza, l'agente informatico può essere impiegato a scopo ludico e ricreativo. Con l'aumento della popolarità dello streaming su piattaforme come YouTube, c'è una crescente necessità di fornire assistenza efficace e rapida agli utenti attraverso la chat. L'agente informatico è stato progettato per rispondere alle domande degli utenti in modo efficiente e preciso, offrendo un'esperienza di streaming più fluida e piacevole. Tuttavia, l'agente informatico può anche essere utilizzato per intrattenere gli utenti, ad esempio attraverso giochi basati sulla chat o interazioni divertenti.
 
 ## Introduzione
 
-Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è diventato sempre più importante fornire un'assistenza efficace e rapida agli utenti attraverso la chat. Tuttavia, gestire un gran numero di domande e richieste in tempo reale può rappresentare una sfida per gli operatori umani. Per questo motivo, abbiamo sviluppato un agente informatico basato su LLaMA per fornire supporto alla chat in streaming su YouTube.
+Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è diventato sempre più importante fornire un'assistenza efficace e rapida agli utenti attraverso la chat. Tuttavia, gestire un gran numero di domande e richieste in tempo reale può rappresentare una sfida per gli operatori umani. Per questo motivo, abbiamo sviluppato un agente informatico basato su LLM per fornire supporto alla chat in streaming su YouTube.
 
 ## Tecnologia e implementazione
 
-Il nostro agente informatico utilizza un linguaggio di programmazione chiamato LLaMA (Linguaggio di programmazione di Modelli Avanzati) per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale. LLaMA si basa su tecniche avanzate di intelligenza artificiale, permettendo al nostro bot di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
+Il nostro agente informatico utilizza un linguaggio di programmazione chiamato LLM per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale. LLM si basa su tecniche avanzate di intelligenza artificiale, permettendo al nostro bot di adattarsi alle esigenze degli utenti e fornire un'esperienza di assistenza personalizzata e di alta qualità.
 Per implementare il nostro agente informatico, sono necessari requisiti hardware avanzati, tra cui almeno 16 GB di RAM, una CPU Intel Core i5 di 12a generazione o superiore, una scheda video RTX 3060ti o superiore. Inoltre, per la piattaforma di streaming, abbiamo utilizzato OBS (Open Broadcast Software) per trasmettere il nostro bot.
 
 ## Risultati e valutazione
 
 Il nostro agente informatico è stato testato e dimostrato di essere in grado di gestire un gran numero di domande provenienti dalla chat e fornire risposte appropriate e pertinenti in tempo reale. Attualmente, il nostro bot è in grado di fornire risposte ad un solo utente alla volta, garantendo un'esperienza personalizzata e di alta qualità. 
-Grazie all'utilizzo di LLaMA, il nostro bot è in grado di adattarsi alle esigenze degli utenti e fornire risposte pertinenti e tempestive. Inoltre, abbiamo implementato un'interfaccia umanoide per il nostro bot di streaming, che può mostrare emozioni cambiando espressione in base al contenuto delle domande degli utenti. 
+Grazie all'utilizzo di LLM, il nostro bot è in grado di adattarsi alle esigenze degli utenti e fornire risposte pertinenti e tempestive. Inoltre, abbiamo implementato un'interfaccia umanoide per il nostro bot di streaming, che può mostrare emozioni cambiando espressione in base al contenuto delle domande degli utenti. 
 Per migliorare ulteriormente l'esperienza dell'utente, il nostro bot è in grado di fornire risposte sia in formato testuale che vocale, per consentire agli utenti di scegliere il formato di risposta che preferiscono. 
 
 ## Conclusione
