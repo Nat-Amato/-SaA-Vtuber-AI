@@ -53,7 +53,7 @@ Ricevuta la risposta del bot, sia in formato testuale che vocale, l'utente può 
 ## Premessa
 "Le repository presenti su questo account Github sono utilizzate solo a scopo didattico e di apprendimento. Se il proprietario di una repository inclusa in questo account desidera che il suo materiale venga rimosso, lo faremo immediatamente su richiesta del proprietario. Non intendiamo utilizzare o distribuire il materiale in modo non autorizzato. Tutte le repository sono soggette alle licenze e alle condizioni d'uso dei rispettivi proprietari."
 
-## Alpaca
+## Alpaca-native-4bit
 Basato su LLaMA di META, in particlolare si tratta di una versione quantizzata a 4 bit di chavinlo/alpaca-native
 [Link alla repository](https://huggingface.co/ozcur/alpaca-native-4bit "Link alla repository")
 
