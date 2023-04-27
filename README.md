@@ -12,15 +12,13 @@ Con l'aumento della popolarità delle piattaforme di streaming come YouTube, è 
 
 ## Tecnologia e implementazione
 
-I requisiti minimi hardware per l'esecuzione del nostro agente sono: 
-- GPU RTX 3060ti
-- CPU Intel Core i5 di 12a gen.
-- RAM 16 GB
-- HDD 20 GB
+Il nucleo del nostro sistema è costituito da due modelli di apprendimento automatico su larga scala: Alpaca e BERT.
 
-Lato software utilizza un Logic Learning Machine (LLM) basato su Alpaca per elaborare le domande degli utenti e fornire risposte appropriate e pertinenti in tempo reale.
-La gestione delle emozioni è affidata ad un sistema di Elaborazione del Linguaggio Naturale (NLP) basato su BERT in grado di classificare i testi in cinque categorie emotive: gioia, tristezza, rabbia, paura e neutralità . 
-Queste tecniche di apprendimento ed elaborazione fanno si che il nostro assistente si adatti alle esigenze degli utenti e sia in grado di offrire un'esperienza di assistenza o di semplice intrattenimento, personalizzata e di alta qualità.
+Alpaca è un modello di elaborazione linguistica in grado di analizzare le domande degli utenti e fornire risposte adeguate e rilevanti in tempo reale. BERT è un modello di classificazione testuale che attribuisce ogni frase a una delle cinque categorie emotive: gioia, tristezza, rabbia, paura e neutralità.
+
+L'integrazione di queste tecniche di machine learning consente al nostro assistente di adattarsi alle esigenze degli utenti e offrire un'esperienza di assistenza o intrattenimento altamente personalizzata e di qualità.
+
+Abbiamo testato il nostro agente su un sistema con requisiti minimi hardware che includono una GPU RTX 3060ti, una CPU Intel Core i5 di 12a generazione, una RAM di 16 GB e un HDD di 20 GB. Questi requisiti sono stati sufficienti per l'esecuzione del nostro assistente e garantire un'esperienza di assistenza o intrattenimento personalizzata e funzionale.
 
 ## Risultati e valutazione
 
