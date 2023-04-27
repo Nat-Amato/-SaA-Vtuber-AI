@@ -1,6 +1,6 @@
 
 
-# VTuber AI - Un agente informatico basato su LLM per l'assistenza in chat in streaming su YouTube: soluzione innovativa e avanzata
+# VTuber AI: il tuo assistente di chat intelligente per lo streaming su YouTube
 
 ## Abstract
 
