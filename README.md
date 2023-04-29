@@ -4,7 +4,7 @@
 
 ## Abstract
 
-In questo progetto presentiamo un agente informatico basato su LLM progettato per fornire assistenza in tempo reale nella chat di streaming su YouTube. Descriviamo la tecnologia e l'hardware necessario per implementare questa soluzione, nonché i risultati ottenuti dai test effettuati. Oltre a fornire assistenza, questo agente può essere impiegato a scopo ludico e ricreativo. È stato progettato per rispondere alle domande degli utenti in modo efficiente e preciso, offrendo un'esperienza di streaming più coinvolgente e piacevole.
+In questo progetto presentiamo un agente informatico basato su LLM ideato per fornire assistenza in tempo reale nella chat di streaming su YouTube. Descriviamo la tecnologia e l'hardware necessario per implementare questa soluzione, nonché i risultati ottenuti dai test effettuati. Oltre a fornire assistenza, questo agente può essere impiegato a scopo ludico e ricreativo. È stato progettato per rispondere alle domande degli utenti in modo efficiente e preciso, offrendo un'esperienza di streaming più coinvolgente e piacevole.
 
 ## Introduzione
 
