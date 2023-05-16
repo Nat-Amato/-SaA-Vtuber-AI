@@ -1,6 +1,6 @@
 
 
-# VTuber AI: il tuo assistente di chat intelligente per lo streaming su YouTube
+# VTuber AI: il tuo chatbot intelligente per lo streaming su YouTube
 
 ## Abstract
 
